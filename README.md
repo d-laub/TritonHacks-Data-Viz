@@ -5,4 +5,4 @@ Data visualization/data science starter kit for [TritonHacks](https://www.triton
 
 [Instructions to get started](https://rural-exception-e2f.notion.site/Getting-Started-Data-Science-Kit-20f7ac23ea6249769433b46505d2792d)
 
-Note that this kit was developed in Deepnote (i.e. flavor of Jupyter Notebook) so viewing in GitHub is not recommended. To see the kit as intended, check out the official [Deepnote project](https://deepnote.com/project/TH-Data-Viz-bbZx_0uUTsmdjzCoSbsMrw).
+Note that this kit was developed in Deepnote (i.e. flavor of Jupyter Notebook) so viewing in GitHub is not recommended. To see our kit (dev version) as intended, check out the official [Deepnote project](https://deepnote.com/project/TH-Data-Viz-bbZx_0uUTsmdjzCoSbsMrw).
